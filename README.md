@@ -1,5 +1,7 @@
 # Skateline
 
+**EDIT**: Just learnt that CommunalHelper does the same thing with its *Player Addition Mod Trigger*, so ig I'll archive this. 
+
 A Porting of the [2021 Strawberry Jam Collab's](https://gamebanana.com/mods/424541) Skateboard Trigger (Famously used in the amazing **_Forest Rush_**). This can be used as a tiny helper for your maps. Use as you wish.
 
 - [Github](https://github.com/Cankyre/Skateline)
